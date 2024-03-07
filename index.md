@@ -11,6 +11,7 @@
 
 [SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
 
+[Modding Overview/Guide](modding-overview-diagram.png)
 
 ## Discord Invite Link
 [https://discord.gg/NtKy7uJVSP](https://discord.gg/NtKy7uJVSP)
