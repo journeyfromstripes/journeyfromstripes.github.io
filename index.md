@@ -13,10 +13,10 @@
 - [TW - Common Counters Spreadsheet](https://docs.google.com/spreadsheets/d/1MhEVzMsh78OoEduu58E36hJyUe4KH-BVmAld3tFLgfk/edit?usp=sharing)
 - [Shard Calculator](https://www.swgoh.life/swgoh_calc.php)
 
-**GL Event Guides**
+## GL Event Guides
 
     - [SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
-    - [Rey Ultimate Tier Guide - "All In on Finn" by Journey's legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
+    - [Rey Ultimate Tier Guide - All In on Finn by Journey's legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
 
 ## Discord Invite Link
 [https://discord.gg/NtKy7uJVSP](https://discord.gg/NtKy7uJVSP)
