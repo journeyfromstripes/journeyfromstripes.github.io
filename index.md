@@ -11,7 +11,9 @@
     - [TB - Wat Tambor Video Walkthrough](https://youtu.be/BRN2lR_5cXs?si=jtjgNAlxUCrywn53)
     - [TB - Acklay Mission Video Walkthrough](https://youtu.be/Y1Zd1_0f-lY?si=J5zzN3Q50YpCFuWU)
 - [TW - Common Counters Spreadsheet](https://docs.google.com/spreadsheets/d/1MhEVzMsh78OoEduu58E36hJyUe4KH-BVmAld3tFLgfk/edit?usp=sharing)
-- [GL - SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
+- GL Event Guides
+    - [SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
+    - [Rey Ultimate Tier Guide - "All In on Finn" by Journey's legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
 - [Shard Calculator](https://www.swgoh.life/swgoh_calc.php)
 
 
