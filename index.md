@@ -14,6 +14,7 @@
 - [Shard Calculator](https://www.swgoh.life/swgoh_calc.php)
 
 **GL Event Guides**
+
     - [SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
     - [Rey Ultimate Tier Guide - "All In on Finn" by Journey's legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
 
