@@ -1,7 +1,7 @@
 # SWGOH Guild Notes, Tips, Docs
 ![Journeys Welcome](Journey_from_stripes2.png?raw=true "Logo")
 
-[SWGOH.GG Guild Link](https://swgoh.gg/g/PA11yqk3QGadStGCuLxKFw/)
+[swgoh.gg Guild Link](https://swgoh.gg/g/PA11yqk3QGadStGCuLxKFw/)
 
 - [Worth the Relic](worth-the-relic.md)
 - [Relic Cost Chart](Relic9-chart-v3.png)
