@@ -19,7 +19,7 @@
     - [TB - Wat Tambor Video Walkthrough](https://youtu.be/BRN2lR_5cXs?si=jtjgNAlxUCrywn53)
     - [TB - Acklay Mission Video Walkthrough](https://youtu.be/Y1Zd1_0f-lY?si=J5zzN3Q50YpCFuWU)
 
-### GL / Journey Event Guides
+### GL & Journey Event Guides
 - [Journey Visualizer in Browser](https://apinchofcode.com/swgoh/)
 - [SLKR - Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
 - [Rey - Ultimate Tier Guide - "All In on Finn" by Journeys legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
