@@ -21,8 +21,8 @@
 
 ### GL / Journey Event Guides
 - [Journey Visualizer in Browser](https://apinchofcode.com/swgoh/)
-- [SLKR Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
-- [Rey Ultimate Tier Guide - All In on Finn by Journeys legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
+- [SLKR - Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
+- [Rey - Ultimate Tier Guide - "All In on Finn" by Journeys legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
 
 ### Misc
 - [Daily Webstore Freebies](https://store.galaxy-of-heroes.starwars.ea.com/)
