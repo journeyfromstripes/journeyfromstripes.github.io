@@ -7,6 +7,7 @@
 
 ### Character Management
 - [Worth the Relic](worth-the-relic.md)
+- [100 Kyro Toon List - 0 Before G12](no-kyro-before-g12.md)
 - [Relic Cost Chart](Relic9-chart-v3.png)
 - [Mods - Overview/Guide](modding-overview-diagram.png)
 - [Zeta / Omi / Team Tier List Spreadsheet - Ahnald](https://docs.google.com/spreadsheets/d/1DIM_122R5blIYnqzJkfb9PYVvNvD1Y52trDnjhTYz6o/edit#gid=57624569)
