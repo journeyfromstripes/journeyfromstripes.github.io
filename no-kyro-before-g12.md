@@ -1,7 +1,7 @@
 # Low Kyro Toons
 These characters have no pre-G12 kyro commitment.
 
-Total Toons No Kyro before G12: 172
+Total Toons: 172
 
 ## List - Character, Release Date
 
