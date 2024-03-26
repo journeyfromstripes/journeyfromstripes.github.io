@@ -1,0 +1,180 @@
+# List of Toons that do not require Kyro before G12
+
+## Total Toons No Kyro before G12: 172
+
+## List - Character, Release Date
+
+- Aayla Secura, 11/24/2015
+- Admiral Ackbar, 11/24/2015
+- Ahsoka Tano, 11/24/2015
+- Ahsoka Tano (Fulcrum), 6/2/2017
+- Amilyn Holdo, 1/27/2018
+- Asajj Ventress, 11/24/2015
+- Aurra Sing, 8/24/2018
+- B1 Battle Droid, 2/14/2019
+- B2 Super Battle Droid, 6/1/2016
+- Barriss Offee, 11/24/2015
+- Bastila Shan, 7/12/2018
+- Bastila Shan (Fallen), 11/15/2018
+- Baze Malbus, 11/14/2016
+- BB-8, 9/28/2017
+- Biggs Darklighter, 11/24/2015
+- Bistan, 11/1/2016
+- Boba Fett, 11/24/2015
+- Boba Fett, Scion of Jango, 10/27/2021
+- Bodhi Rook, 4/3/2017
+- Bossk, 5/4/2018
+- C-3PO, 12/14/2018
+- Cad Bane, 11/24/2015
+- Canderous Ordo, 11/16/2018
+- Captain Han Solo, 8/28/2017
+- Captain Phasma, 12/17/2015
+- Cara Dune, 4/23/2020
+- Carth Onasi, 12/1/2018
+- Cassian Andor, 12/21/2016
+- CC-2224 "Cody", 7/12/2016
+- Chewbacca, 9/27/2018
+- Chief Chirpa, 3/15/2016
+- Chief Nebit, 7/12/2016
+- Chirrut imwe, 11/18/2016
+- Chopper, 3/9/2017
+- Clone Sergeant - Phase I, 
+- Clone Wars Chewbacca, 
+- Colonel Starck, 
+- Commander Luke Skywalker, 
+- Coruscant Underworld Police, 
+- Count Dooku, 
+- CT-21-0408 "Echo", 
+- CT-5555 "Fives", 
+- CT-7567 "Rex", 
+- Darth Maul, 
+- Darth Nihilus, 
+- Darth Sidious, 
+- Darth Sion, 3/1/2018
+- Darth Traya, 
+- Darth Vader, 
+- Dathcha, 
+- Death Trooper, 1/26/2017
+- Dengar, 
+- Director Krennic, 
+- Droideka, 2/21/2019
+- Eeth Koth, 
+- Embo, 8/9/2018
+- Emperor Palpatine, 
+- Enfys Nest, 5/30/2018
+- Ewok Elder, 
+- Ewok Scout, 
+- Ezra Bridger, 
+- Finn, 
+- First Order Executioner, 1/11/2018
+- First Order Officer, 
+- First Order SF TIE Pilot, 11/9/2017
+- First Order Stormtrooper, 
+- First Order TIE Pilot, 
+- Gamorrean Guard, 
+- Gar Saxon, 
+- Garazeb "Zeb" Orrelios, 
+- General Grievous, 
+- General Kenobi, 
+- General Veers, 
+- Geonosian Soldier, 
+- Geonosian Spy, 
+- Grand Admiral Thrawn, 
+- Grand Master Yoda, 
+- Grand Moff Tarkin, 
+- Greedo, 
+- Han Solo, 
+- Hera Syndulla, 
+- Hermit Yoda, 
+- HK-47, 
+- Hoth Rebel Scout, 
+- Hoth Rebel Soldier, 
+- IG-100 MagnaGuard, 
+- IG-11, 11/20/2020
+- IG-86 Sentinel Droid, 
+- IG-88, 
+- Ima-Gun Di, 
+- Imperial Probe Droid, 
+- Imperial Super Commando, 
+- Jango Fett, 9/20/2018
+- Jawa, 
+- Jawa Engineer, 
+- Jawa Scavenger, 
+- Jedi Consular, 
+- Jedi Knight Anakin, 11/24/2015
+- Jedi Knight Guardian, 11/24/2015
+- Jedi Knight Revan, 10/18/2018
+- Jolee Bindo, 7/13/2018
+- Juhani, 11/30/2018
+- Jyn Erso, 12/17/2016
+- K-2SO, 12/7/2016
+- Kanan Jarrus, 3/16/2017
+- Kit Fisto, 11/24/2015
+- Kuiil, 11/6/2020
+- Kylo Ren, 12/17/2015
+- Kylo Ren (Unmasked), 11/9/2017
+- L3-37, 6/7/2018
+- Lando Calrissian, 11/24/2015
+- Lobot, 11/24/2015
+- Logray, 7/22/2017
+- Luke Skywalker (Farmboy), 11/24/2015
+- Luminara Unduli, 11/24/2015
+- Mace Windu, 11/24/2015
+- Magmatrooper, 3/1/2016
+- Mission Vao, 7/27/2018
+- Mob Enforcer, 11/24/2015
+- Mother Talzin, 10/20/2017
+- Nightsister Acolyte, 11/24/2015
+- Nightsister Initiate, 11/24/2015
+- Nightsister Spirit, 10/31/2017
+- Nightsister Zombie, 10/31/2017
+- Nute Gunray, 11/24/2015
+- Obi-Wan Kenobi (Old Ben), 11/24/2015
+- Old Daka, 11/24/2015
+- Pao, 4/1/2017
+- Paploo, 7/20/2017
+- Plo Koon, 11/24/2015
+- Poe Dameron, 12/17/2015
+- Poggle the Lesser, 11/24/2015
+- Princess Leia, 11/24/2015
+- Qi'ra, 5/25/2018
+- Qui-Gon Jinn, 11/24/2015
+- R2-D2, 5/4/2017
+- Range Trooper, 6/22/2018
+- Rebel Officer Leia Organa, 8/28/2017
+- Resistance Pilot, 11/24/2015
+- Resistance Trooper, 11/24/2015
+- Rey (Jedi Training), 12/15/2017
+- Rey (Scavenger), 12/17/2015
+- Rose Tico, 1/27/2018
+- Royal Guard, 11/24/2015
+- Sabine Wren, 4/6/2017
+- Savage Opress, 11/24/2015
+- Scarif Rebel Pathfinder, 9/1/2016
+- Shoretrooper, 10/30/2016
+- Sith Assassin, 2/18/2017
+- Sith Empire Trooper, 2/16/2017
+- Sith Marauder, 2/14/2018
+- Snowtrooper, 11/24/2015
+- Stormtrooper, 11/24/2015
+- Stormtrooper Han, 11/24/2015
+- Sun Fac, 4/24/2016
+- T3-M4, 7/26/2018
+- Talia, 11/24/2015
+- Teebo, 11/24/2015
+- TIE Fighter Pilot, 10/1/2016
+- Tusken Raider, 11/24/2015
+- Tusken Shaman, 3/25/2016
+- Ugnaught, 11/24/2015
+- URoRRuR'R'R, 11/24/2015
+- Vandor Chewbacca, 5/17/2018
+- Veteran Smuggler Chewbacca, 9/7/2017
+- Veteran Smuggler Han Solo, 9/7/2017
+- Visas Marr, 3/1/2018
+- Wampa, 11/23/2017
+- Wedge Antilles, 5/3/2016
+- Wicket, 7/27/2017
+- Young Han Solo, 5/17/2018
+- Young Lando Calrissian, 6/7/2018
+- Zaalbar, 7/27/2018
+- Zam Wesell, 6/15/2016
