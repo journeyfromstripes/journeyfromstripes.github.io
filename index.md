@@ -26,8 +26,8 @@
 - [Rey - Ultimate Tier Guide - "All In on Finn" by Journeys legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
 - *Rey/SLKR Tier 3 GL Event - Duel Notes/Order*
   1. Feint - Strike - Parry - Strike - Rinse and Repeat this pattern *with one exception*
-      If your opponent has ?? above their head, always Strike.
-  2. After this out-of-sequence Strike, restart the original in #1.
+    - **If your opponent has ?? above their head**, always Strike.
+  2. After this out-of-sequence Strike, restart the order in #1.
   3. This works 100% of the time.
 
 ### Misc
