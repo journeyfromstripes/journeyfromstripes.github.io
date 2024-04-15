@@ -24,6 +24,11 @@
 - [Journey Visualizer in Browser](https://apinchofcode.com/swgoh/)
 - [SLKR - Event Guide](https://swgoh.miraheze.org/wiki/SLKR_Event_Guide)
 - [Rey - Ultimate Tier Guide - "All In on Finn" by Journeys legacy member stwida](https://www.youtube.com/watch?v=w19Csy6UtBs)
+- *Rey / SLKR Duel Notes/Order - Tier 3 GL Event*
+  - Feint - Strike - Parry - Strike | Rinse and Repeat this pattern *with one exception*
+    - If your opponent has ?? above their head, always Strike.
+  - After this out-of-sequence Strike, restart the original order Feint > Strike > Parry > Strike.
+  - This works 100% of the time.
 
 ### Misc
 - [Daily Webstore Freebies](https://store.galaxy-of-heroes.starwars.ea.com/)
