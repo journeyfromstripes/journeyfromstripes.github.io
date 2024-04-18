@@ -3,9 +3,9 @@
 - All mods 6 dot across all pilots
 
 ## Starting Lineup Fleet 
-- **Capital Ship** Finalizer - Hux @ R6 for +2 speed against Executor (including R9 Piett)
-- Kylo Ren's Command Shuttle
-- TIE Silencer
+- **Capital Ship:** Finalizer - (Hux @ R6 for +2 speed against Executor, including R9 Pietts)
+- Kylo Ren's Command Shuttle (Kylo @ R7)
+- TIE Silencer (KRU @ R7)
 - TIE Echelon (First Order Officer @ R7)
 
 ## Reinforcements
