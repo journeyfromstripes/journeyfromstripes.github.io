@@ -14,4 +14,5 @@
 
 ### Notes
 - The goal is to Ability Block Hound's Tooth and kill the other ships one-by-one.
+- Each Relic level increase of Hux adds +2 speed to his Capital Ship.
 
