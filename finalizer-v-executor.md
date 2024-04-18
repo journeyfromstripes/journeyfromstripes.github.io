@@ -3,7 +3,7 @@
 - All mods 6 dot across all pilots
 
 ## Starting Lineup Fleet 
-- **Capital Ship:** Finalizer - (Hux @ R6 for +2 speed against Executor, including R9 Pietts)
+- **Capital Ship:** Finalizer - (Hux @ R6)
 - Kylo Ren's Command Shuttle (Kylo @ R7)
 - TIE Silencer (KRU @ R7)
 - TIE Echelon (First Order Officer @ R7)
@@ -14,3 +14,4 @@
 
 ### Notes
 - The goal is to Ability Block Hound's Tooth and kill the other ships one-by-one.
+
