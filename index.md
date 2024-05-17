@@ -2,7 +2,7 @@
 ![Journeys Welcome](Journey_from_stripes2.png?raw=true "Logo")
 
 ### Discord Invite & Guild Info
-- [https://discord.gg/NtKy7uJVSP](https://discord.gg/NtKy7uJVSP)
+- Ask Guildies for Invite Link!
 - [SWGOH.gg Guild Link](https://swgoh.gg/g/PA11yqk3QGadStGCuLxKFw/)
 
 ### Character Management
