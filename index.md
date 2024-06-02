@@ -19,6 +19,8 @@
 - [TB - DS Geo Interactive Map](https://genskaar.github.io/tb_geo/html/ds.html)
     - [TB - Wat Tambor Video Walkthrough](https://youtu.be/BRN2lR_5cXs?si=jtjgNAlxUCrywn53)
     - [TB - Acklay Mission Video Walkthrough](https://youtu.be/Y1Zd1_0f-lY?si=J5zzN3Q50YpCFuWU)
+- [TB - ROTE Visual Guide/Map](https://genskaar.github.io/tb_empire/html/main.html)
+- [TB - ROTE - Guild Specific Planning TESTING](/tb/rote-plan)
 
 ### GL & Journey Event Guides
 - [Journey Visualizer in Browser](https://apinchofcode.com/swgoh/)

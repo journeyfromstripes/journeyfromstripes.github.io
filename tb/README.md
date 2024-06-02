@@ -1,4 +1,4 @@
-# TB Planning
+# TB Planning - Journeys Specific
 
 ### Gathering guild member info
 
