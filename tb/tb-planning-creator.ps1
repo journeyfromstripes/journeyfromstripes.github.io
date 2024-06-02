@@ -26,9 +26,9 @@ $reportOutput = foreach ($p in $wookieBotPlatoonAssignments) {
 $reportOutput | sort-object username | ConvertTo-MarkdownTable | Out-File .\tb\rote-plan.md
 
 # Pre-pending header text to the markdown file
-$currentDate = get-date -format MM-yyyy
-$webPagePrependedText = "# $currentDate - ROTE Platoon Assignments"
-$originalReport = Get-Content .\tb\rote-plan.md
-$newContent = $webPagePrependedText, $originalReport
-Set-Content -Path .\tb\rote-plan.md -Value $newContent
+#$currentDate = get-date -format MM-yyyy
+#$webPagePrependedText = "# $currentDate - ROTE Platoon Assignments"
+#$originalReport = Get-Content .\tb\rote-plan.md
+#$newContent = $webPagePrependedText, $originalReport
+#Set-Content -Path .\tb\rote-plan.md -Value $newContent
 

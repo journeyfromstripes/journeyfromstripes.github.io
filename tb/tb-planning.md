@@ -17,7 +17,7 @@ Using wookiebot, generate the 'Assignments as JSON' and download to the `/tb/woo
 
 Run `tb-planning-creator.ps1` from the root directory of the repository, having pulled the most recent files.
 
-This will output the data to [Rote Plan](rote-plan.md)
+This will output the data to [Rote Plan](/tb/rote-plan.md)
 
 
 

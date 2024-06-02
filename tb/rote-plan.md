@@ -1,4 +1,3 @@
-# 06-2024 - ROTE Platoon Assignments
 | Username                     | Toon                         | Zone                                 | PlatoonID     |
 |------------------------------|------------------------------|--------------------------------------|---------------|
 | aggression                   | PHANTOM2                     | tb3_mixed_phase01_conflict01_recon01 | tb3-platoon-1 |
