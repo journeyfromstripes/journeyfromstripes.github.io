@@ -32,6 +32,10 @@
   2. After this out-of-sequence Strike, restart the order in #1.
   3. This works 100% of the time.
 
+### Raid Info
+- [Naboo Overview Info](naboo-raid-overview.jpg)
+- [Naboo Unit Info](naboo-unit-info.png)
+
 ### Fleet Guides
 - [Finalizer v Executor](finalizer-v-executor.md)
 
