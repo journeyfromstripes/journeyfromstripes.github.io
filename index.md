@@ -2,7 +2,7 @@
 ![Journeys Welcome](Journey_from_stripes2.png?raw=true "Logo")
 
 ### Discord Invite & Guild Info
-- Ask Guildies for Invite Link!
+- [Join Us on Discord! Invite Link](https://discord.gg/NtKy7uJVSP)
 - [SWGOH.gg Guild Link](https://swgoh.gg/g/PA11yqk3QGadStGCuLxKFw/)
 
 ### Character Management
@@ -41,3 +41,4 @@
 
 ### Misc
 - [Daily Webstore Freebies](https://store.galaxy-of-heroes.starwars.ea.com/)
+- PC Users get an additional daily freebie crate!
