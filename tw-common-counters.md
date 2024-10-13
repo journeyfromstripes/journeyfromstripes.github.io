@@ -1,7 +1,7 @@
-# Counters to our TW Opponent Common Squads
+# TW Counters
 
 - Kill order, when important, will be called out.
-- Assumes no META shifting datacrons
+- Assumes no META shifting datacrons.
 
 ## GLs
 - Rey
