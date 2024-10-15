@@ -4,21 +4,14 @@
 - Assumes no META shifting datacrons.
 
 ## GLs
-- Rey
-  1. SLKR
-  2. JML w/ JKL, GMY, JKCK, JKR
-  3. Leia or JMK
 - Jabba
   1. SLKR
   2. Jabba
   3. Leia
-- Leia
-  1. Leia
-  2. Jabba
-- SLKR
-  1. JML
-  2. JKR, Bastilla, JKL, Old Ben, Hermit Yoda
-  3. Jabba / Leia / JMK
+- Jedi Master Luke
+  1. SEE
+  2. LV / Jabba / Leia / JMK
+  3. Mauldalorians ~50% win rate
 - Jedi Master Kenobi (No CAT)
   1. Bo Katan Mandalore
   2. team2
@@ -27,15 +20,18 @@
   2. Maul-dalorians
   3. SEE
   4. JML (w/ JKCK)
+- Leia
+  1. Leia
+  2. Jabba
 - Lord Vader
   1. Bo Katan Mandalore
   2. JML
   3. Leia
   4. JMK
-- Jedi Master Luke
-  1. SEE
-  2. LV / Jabba / Leia / JMK
-  3. Mauldalorians ~50% win rate
+- Rey
+  1. SLKR
+  2. JML w/ JKL, GMY, JKCK, JKR
+  3. Leia or JMK
 - SEE
   1. Gungans
   2. GG Droideka-cron
@@ -44,6 +40,10 @@
   5. Phoenix w/ Heracron and Rex
   6. General Anakin skywalker
   7. All GLs EXCEPT JML have strong odds against SEE
+- SLKR
+  1. JML
+  2. JKR, Bastilla, JKL, Old Ben, Hermit Yoda
+  3. Jabba / Leia / JMK
 
 ## Non-GLs
 - Mara Jade Omi
